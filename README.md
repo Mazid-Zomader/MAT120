@@ -21,4 +21,4 @@ Collaboration: Collaboration is encouraged, but it should be within the boundari
 If you have any questions or concerns related to academic integrity or the course materials, feel free to reach out to the course instructor or teaching assistants.
 For any enquiry , feel free to mail at contact.mazidzomader@gmail.com
 
-Let’s maintain a respectful and honest learning environment. Happy coding! 🚀
+Let’s maintain a respectful and honest learning environment. Happy learning! 🚀
