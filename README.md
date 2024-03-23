@@ -1,24 +1,33 @@
-**MAT120 Course Materials Repository**
+# Integral Calculus & Differential Equations 
+# MAT120
 
+Welcome to the GitHub repository for the **Integral Calculus & Differential Equations (MAT120)** course at **Brac University** for the **Spring 2024** semester.
 
-Welcome to the MAT120 course materials repository! This repository contains all the necessary resources for the Integral Calculus and Co-ordinates Geometry course. Please read the following guidelines carefully:
+## Course Instructors
+- Theory: **Ms. Shathy Khan**
+- Laboratory: **Mr. Rakibul Alam Shamim**
 
+## Language
+This course uses **Python** for computational tasks and **Calculus** for theoretical understanding.
 
-**Academic Integrity and Plagiarism**
+## Caution
+Cheating in any form will not be tolerated in this course. It's important to maintain academic integrity and honesty.
 
+## Strictly Prohibited
+- **Stealing**: Unauthorized use of another's work is strictly prohibited.
+- **Plagiarism**: Copying someone else's work without proper attribution is not allowed.
+- **Proper Attribute and Recognition of Author**: Always give credit where it's due. If you use someone else's work, make sure to properly attribute it to them.
 
-Original Work: It is essential that all materials uploaded here are your own original work. This includes assignments, solutions, practice sheets, and any other related content.
+## Message from the Author
+I encourage all students to engage in honest and original work. Plagiarism not only undermines your own learning experience, but it also disrespects the original author's efforts. Let's create a learning environment that values originality and hard work.
 
-Avoid Plagiarism: Plagiarism is strictly prohibited. Do not copy solutions or content from external sources without proper attribution. Always credit the original authors if you refer to their work.
+## Contact Information
+Feel free to reach out via email for any inquiries or concerns.
 
-Cite Sources: If you use external resources (such as textbooks, online materials, or other students’ work), provide clear citations. Properly cite any code, formulas, or ideas that are not your own.
+contact.mazidzomader@gmail.com
 
-Collaboration: Collaboration is encouraged, but it should be within the boundaries set by the course. Discussing concepts and problem-solving strategies with classmates is beneficial, but the final work you submit must be your own.
+Best regards,
 
-**Contact**
+**Abdullah Al Mazid Zomader**
 
-
-If you have any questions or concerns related to academic integrity or the course materials, feel free to reach out to the course instructor or teaching assistants.
-For any enquiry , feel free to mail at contact.mazidzomader@gmail.com
-
-Let’s maintain a respectful and honest learning environment. Happy learning! 🚀
+Thank you and happy learning!
